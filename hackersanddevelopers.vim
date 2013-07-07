@@ -25,59 +25,36 @@ endif
 
 
 hi Boolean         guifg=#d35f8d                    gui=bold
-hi Character       guifg=#FFA0A0
+hi Character       guifg=#FFA0A0    
 hi Number          guifg=#d35f8d                    gui=bold
-hi String          guifg=#FFA0A0
+hi String          guifg=#FFA0A0    
 hi Conditional     guifg=#F92672                    gui=bold
 hi Constant        guifg=#d35f8d                    gui=bold 
-hi Cursor          guifg=#000000 guibg=#F8F8F0
-<<<<<<< HEAD
+hi Cursor          guifg=#000000    guibg=#F8F8F0
 hi Debug           guifg=#BCA3A3                    gui=bold
 hi Define          guifg=#D35F8D                    gui=bold
-=======
-hi Debug           guifg=#BCA3A3                gui=bold
-hi Define          guifg=#D35F8D                gui=bold
->>>>>>> d12562f7042f4691bb21fbff726fdebd8d5d4c86
-hi Delimiter       guifg=#8F8F8F
-hi DiffAdd                       guibg=#13354A
-hi DiffChange      guifg=#89807D guibg=#4C4745
-hi DiffDelete      guifg=#960050 guibg=#1E0010
-hi DiffText                      guibg=#4C4745      gui=italic,bold
+hi Delimiter       guifg=#8F8F8F    
+hi DiffAdd                          guibg=#13354A
+hi DiffChange      guifg=#89807D    guibg=#4C4745
+hi DiffDelete      guifg=#960050    guibg=#1E0010
+hi DiffText                         guibg=#4C4745   gui=italic,bold
 
-<<<<<<< HEAD
 hi Directory       guifg=#ffa0a0                    gui=bold  
-hi Error           guifg=#960050 guibg=#1E0010
-hi ErrorMsg        guifg=#F92672 guibg=#232526      gui=bold
+hi Error           guifg=#960050    guibg=#1E0010
+hi ErrorMsg        guifg=#F92672    guibg=#232526   gui=bold
 hi Exception       guifg=#ffa0a0                    gui=bold   
 hi Float           guifg=#d35f8d                    gui=bold
-hi FoldColumn      guifg=#465457 guibg=#000000
-hi Folded          guifg=#465457 guibg=#000000
+hi FoldColumn      guifg=#465457    guibg=#000000
+hi Folded          guifg=#465457    guibg=#000000
 hi Function        guifg=#ffa0a0                    gui=bold
-=======
-hi Directory       guifg=#ffa0a0                gui=bold  
-hi Error           guifg=#960050 guibg=#1E0010
-hi ErrorMsg        guifg=#F92672 guibg=#232526  gui=bold
-hi Exception       guifg=#ffa0a0                gui=bold   
-hi Float           guifg=#d35f8d                gui=bold
-hi FoldColumn      guifg=#465457 guibg=#000000
-hi Folded          guifg=#465457 guibg=#000000
-hi Function        guifg=#ffa0a0                gui=bold
->>>>>>> d12562f7042f4691bb21fbff726fdebd8d5d4c86
 hi Identifier      guifg=#E8E2A2
-hi Ignore          guifg=#808080 guibg=bg
-hi IncSearch       guifg=#C4BE89 guibg=#000000
+hi Ignore          guifg=#808080    guibg=bg
+hi IncSearch       guifg=#C4BE89    guibg=#000000
 
-<<<<<<< HEAD
 hi Keyword         guifg=#F92672                    gui=bold
 hi Label           guifg=#FFA0A0                    gui=none
 hi Macro           guifg=#C4BE89                    gui=italic
 hi SpecialKey      guifg=#D35F8D                    gui=bold  
-=======
-hi Keyword         guifg=#F92672                gui=bold
-hi Label           guifg=#FFA0A0                gui=none
-hi Macro           guifg=#C4BE89                gui=italic
-hi SpecialKey      guifg=#D35F8D                gui=bold  
->>>>>>> d12562f7042f4691bb21fbff726fdebd8d5d4c86
 
 hi MatchParen      guifg=#000000    guibg=#FD971F   gui=bold
 hi ModeMsg         guifg=#FFA0A0
